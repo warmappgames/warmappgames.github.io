@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-subtitle:
+cover-img: "/assets/img/cover/AFG1500x500.jpeg"
 comments: false
 ---
 

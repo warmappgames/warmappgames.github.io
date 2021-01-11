@@ -15,10 +15,10 @@ author: WarmApp Games
 
 navbar-links:
   About Us: "aboutme"
+  Our Games: ""
   Resources:
     - Privacy Policy: "content/pages/privacy-policy"
     - terms & Conditions: "content/pages/terms-of-use"
-  Our Games: ""
 
 # --- Logo --- #
 

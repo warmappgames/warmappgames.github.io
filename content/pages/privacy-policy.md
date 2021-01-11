@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+cover-img: "/assets/img/cover/AFG1500x500.jpeg"
 comments: false
 ---
 
