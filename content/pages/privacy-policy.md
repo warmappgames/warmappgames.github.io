@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 cover-img: "/assets/img/cover/AFG1500x500.jpeg"
-comments: false
+readtime: true
 ---
 
 WarmApp Games built the Tunnel Rush Mania app as a Free app. This SERVICE is provided by WarmApp Games at no cost and is intended for use as is.
