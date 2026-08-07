@@ -23,10 +23,11 @@ Before pushing, cheap local checks: `ruby -ryaml -e 'YAML.load_file("_config.yml
 
 ## Git specifics
 
-- Pushing: the macOS keychain returns the `rus89` GitHub account, which has **no write access** (plain `git push` → 403). Push with the `warmappgames` account active in gh:
+- Pushing: the macOS keychain returns the `rus89` GitHub account, which has **no write access** (plain `git push` → 403). `rus89` is also gh's default active account (Milan uses it elsewhere). Switch to `warmappgames` for the push, then switch back:
   ```bash
-  gh auth switch --user warmappgames   # if needed
+  gh auth switch --user warmappgames
   git -c credential.helper= -c credential.helper='!gh auth git-credential' push origin master
+  gh auth switch --user rus89
   ```
 - Milan pushes directly to `master` in this repo (no PR flow) — remember each push is a production deploy.
 - If a PR is ever needed: `gh pr create` here defaults to targeting the parent repo (daattali/beautiful-jekyll). Always pass `--repo warmappgames/warmappgames.github.io`.
