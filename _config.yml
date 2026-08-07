@@ -291,6 +291,7 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+  - JOURNAL.md
   - LICENSE
   - README.md
   - screenshot.png
