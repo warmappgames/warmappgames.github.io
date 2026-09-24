@@ -4,55 +4,197 @@ cover-img: "/assets/img/cover/AFG1500x500.jpeg"
 readtime: true
 ---
 
-WarmApp Games built the Tunnel Rush Mania app as a Free app. This SERVICE is provided by WarmApp Games at no cost and is intended for use as is.
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Tunnel Rush Mania unless otherwise defined in this Privacy Policy.
-Information Collection and Use
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
-The app does use third party services that may collect information used to identify you.
-Link to privacy policy of third party service providers used by the app
-- [Google Play Services](https://www.google.com/policies/privacy/)
-- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-- [Firebase Analytics](https://firebase.google.com/policies/analytics)
-- [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
-- [Unity](https://unity3d.com/legal/privacy-policy)
+**Last updated: 24 September 2026**
 
-## Log Data
+## Who we are
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+WarmApp Games publishes **Tunnel Rush Mania** for Android. In this policy, “we”
+and “us” mean WarmApp Games. We are responsible for deciding how the game's
+personal data is used, except where a provider processes data independently as
+explained below. You can contact us at
+[warmappgames@gmail.com](mailto:warmappgames@gmail.com).
 
-## Cookies
+This policy explains data handling in the game and when you contact support. The
+game is free to download and offers optional in-app purchases. Advertising
+features depend on the version and features available to you.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+You do not need to register a WarmApp Games account to play. However, the game and
+its service providers use installation and player identifiers. Such identifiers
+can be personal data even when they do not contain your name or email address.
+This policy provides information; using the game or accepting our
+[Terms & Conditions](https://warmappgames.github.io/content/pages/terms-of-use/)
+does not itself constitute consent to processing that legally requires consent.
 
-## Service Providers
+## Information we process and why
 
-We may employ third-party companies and individuals due to the following reasons:
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
+The game saves progress, currency balances, settings and purchase-grant records
+on your device so that you can continue playing. Your Android backup settings may
+also cause app data to be backed up and restored by Google. This is separate from
+the analytics and other online services described below.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+| Information | Purpose and services involved |
+| --- | --- |
+| **Gameplay and diagnostics:** sessions, screens, levels, successes and failures, rewards, currency use, settings, timestamps, app/device versions and crash information. | Firebase Analytics and Unity Gaming Services Analytics help us understand play patterns and improve the game. Firebase Crashlytics helps diagnose crashes using crash reports, device information and installation identifiers. |
+| **Technical identifiers and connection data:** installation/app-instance identifiers, a Unity player identifier, device/advertising identifiers where available, IP address and device/software information. | Google/Firebase and Unity use these to operate their services, associate events with an installation and deliver game configuration. Firebase Analytics can also use advertising identifiers for attribution, subject to settings and permissions. Unity Authentication creates a player identity without requiring an email/password account. IP addresses may be used to infer an approximate region. |
+| **Purchases:** product, price, currency, transaction identifiers, purchase status and receipt information. | Google Play and Unity In-App Purchasing process purchases. The game uses purchase records to deliver coins and avoid duplicate grants; purchase events also go to our analytics services. We do not receive your full payment-card details. |
+| **Notifications:** installation/messaging identifiers, notification preferences and permission status, and notification interactions. | Firebase Cloud Messaging supports messaging services. Local reminders are scheduled on your device. Notification-related analytics help us understand whether reminders are useful. |
+| **Support:** the email address and message you submit, plus diagnostic information or attachments included with an in-game report. | We use these to answer requests and investigate problems. In-game reports can be sent through Easy Feedback to Trello, operated by Atlassian; email support is handled through our Google email service. Diagnostic reports can include device name/model, operating-system details and application logs. |
 
-## Security
+Providing a support message is optional. Please do not include passwords, payment
+card details or other sensitive information that is unnecessary for your request.
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+## Advertising and privacy choices
 
-## Links to Other Sites
+When advertising features are available, we use **Google AdMob**, with **Unity
+Ads** as a mediation partner. Depending on the feature, your region and privacy
+choices, these services can process IP addresses, device and advertising
+identifiers, app/ad interactions and diagnostics to deliver and measure ads and
+prevent fraud. Ads may be personalized, non-personalized or limited according to
+the applicable permissions and provider rules.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Use the advertising privacy controls presented in the app to review or change
+your choices where available. If you cannot find the relevant control, contact
+us at [warmappgames@gmail.com](mailto:warmappgames@gmail.com). Android also provides
+advertising-ID and ad-privacy settings; the available options depend on your
+Android version. Resetting or deleting an advertising ID does not erase data
+already held by us or our providers.
 
-## Children’s Privacy
+**Declining personalized advertising does not turn off gameplay analytics or
+crash reporting.** These services operate separately from the advertising
+choice. It also does not necessarily remove all ads: limited or non-personalized
+ads may still be available. Contact us to exercise applicable rights concerning
+analytics, as described under “Your rights and deletion requests.”
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+The game and its providers use local storage and identifiers, rather than a
+general browser-cookie acceptance switch. A browser's cookie settings do not
+control all data processing in the app.
 
-## Changes to This Privacy Policy
+## Notifications and local controls
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+You can turn reminders off in the game's notification settings and manage the
+app's notification permission in Android settings. These controls do not delete
+previous notification analytics or automatically erase a messaging identifier.
 
-## Contact Us
+Clearing the app's storage in Android removes its local data, including progress
+and balances. Reinstallation can restore a backup, depending on your device
+settings. Resetting progress, clearing storage or uninstalling the app does not
+by itself request deletion of information already sent to online services.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at warmappgames@gmail.com
+## Who receives information
+
+Our main providers and their roles are:
+
+1. **Google:** Google Play and billing, Google Play services, Firebase Analytics,
+   Crashlytics and Cloud Messaging, AdMob when ads are available, and support email.
+   Read the [Google Privacy Policy](https://policies.google.com/privacy),
+   [Firebase privacy information](https://firebase.google.com/support/privacy) and
+   [how Google uses information from partner apps](https://policies.google.com/technologies/partner-sites).
+2. **Unity:** Gaming Services Analytics, Authentication and Remote Config, Unity
+   In-App Purchasing, and Unity Ads when ads are available. Read the
+   [Unity Game Player and App User Privacy Policy](https://unity.com/legal/game-player-and-app-user-privacy-policy).
+3. **Atlassian:** Trello can receive in-game support reports and their diagnostic
+   attachments. Read the [Atlassian Privacy Policy](https://www.atlassian.com/legal/privacy-policy).
+
+Some services process information on our behalf. Providers may also act as
+independent controllers for particular services or purposes. Their notices
+explain those roles and uses.
+
+We may disclose information where necessary to comply with legal obligations,
+respond to a lawful request or protect legal rights and the security of the game.
+If you open an external website or social-media link, that service's own privacy
+notice applies to what you do there.
+
+## Legal bases
+
+Where data-protection law requires a legal basis, the basis depends on the purpose:
+
+| Purpose | Basis |
+| --- | --- |
+| Provide the game functions you request, deliver purchases and handle related support. | Performance of our agreement with you, to the extent the processing is necessary for that purpose. |
+| Understand game performance, investigate crashes, improve gameplay, prevent abuse and handle general enquiries. | Our legitimate interests in operating and improving the game, where permitted and where those interests are not overridden by your rights. You may object as explained below. |
+| Personalize advertising, or access/store information on your device where consent is legally required. | Consent. A notice or acceptance of the game's terms does not replace the required consent. |
+| Meet applicable accounting, legal and regulatory requirements. | Compliance with a legal obligation. |
+
+The legitimate-interest basis does not override any separate legal requirement
+to obtain consent for device storage, identifiers or other processing. If we
+rely on consent, you may withdraw it without affecting processing lawfully
+carried out before withdrawal.
+
+## Retention
+
+Retention depends on the type of information and why it is held:
+
+| Information | Retention criteria |
+| --- | --- |
+| **Local progress, settings and purchase-grant records** | Remain in app storage until removed or replaced. Android backups follow your backup settings and Google's rules. |
+| **Analytics, diagnostics and analytics exports** | Identifiable records are retained for the period needed to compare gameplay across releases and investigate stability or balance problems, subject to the applicable service or export retention settings. Exports are separate copies; deleting source analytics does not automatically delete an export. Statistics that no longer identify anyone may be kept longer. |
+| **Service and messaging identifiers** | Retained to maintain the installation's service identity and messaging functions, until removed through the applicable service's deletion or expiry process. Turning off notifications alone does not remove every identifier. |
+| **Support correspondence and report attachments** | Retained while resolving the request and any related follow-up or dispute; identifying details and attachments are removed when no longer needed for those purposes or a legal obligation. |
+| **Purchase and legal records** | Retained for purchase fulfilment, refunds, fraud prevention and any applicable accounting or legal retention period. |
+
+Service retention and backup-removal processes differ. See the linked provider
+privacy information, or contact us about the records relevant to your request.
+Where an exception requires us to retain information after a deletion request,
+we will explain the reason and applicable retention criteria. We do not promise
+immediate erasure from every provider or backup.
+
+## Your rights and deletion requests
+
+Depending on the law that applies to you, you may have rights to access or obtain
+a copy of your personal data, correct it, request deletion or restriction, receive
+portable data, object to processing based on legitimate interests, and withdraw
+consent. You may also have rights to opt out of targeted advertising or certain
+disclosures. These rights have legal conditions and exceptions.
+
+To make a request, email
+[warmappgames@gmail.com](mailto:warmappgames@gmail.com) with “Tunnel Rush Mania
+privacy request” in the subject. Describe your request and, if relevant, the
+support email address or order number that helps us locate your records. Do not
+send passwords or full payment-card details. We may request proportionate
+additional information to verify the request and find the relevant installation
+or provider records; an email address alone may not identify gameplay analytics.
+
+We will assess and respond within the period required by applicable law and
+coordinate requests concerning data processed on our behalf. If we cannot
+identify the relevant data or a legal exception applies, we will explain that.
+For information a provider controls independently, we can direct you to its
+privacy-request process. You do not need a WarmApp Games account to contact us.
+
+You may complain to your local data-protection authority. In the EEA, this can
+be the authority where you live, work or believe an infringement occurred; in
+the UK, the Information Commissioner's Office. Contacting us first is optional.
+
+## International processing and security
+
+WarmApp Games operates from Serbia. Our providers may process information in
+other countries, including the United States, whose privacy laws may differ
+from those in your country. The provider notices linked above describe their
+international processing and transfer safeguards. Depending on the service and
+destination, safeguards can include an applicable adequacy decision or standard
+contractual clauses. Contact us for information about safeguards relevant to
+your data or how to obtain a copy where applicable.
+
+We use reasonable measures to protect personal data, including encrypted network
+connections for the online services described here and limiting access to
+information needed for support and operation. No system can guarantee absolute
+security. Keep your device and Google account secure, especially when using
+backups or making purchases.
+
+## Children
+
+Tunnel Rush Mania is not intended for children under 13. We do not knowingly
+collect their personal data. If you believe a child under 13 has provided data,
+contact us so we can investigate and arrange appropriate deletion, including
+with providers acting on our behalf. Where local law requires parental
+authorization for consent-based processing of an older child's data, that
+requirement also applies; a game's content rating does not replace it.
+
+## Changes and contact
+
+We will post revisions on this page and update the date above. For material
+changes, we will provide additional notice or obtain consent where required.
+A policy update does not override an existing privacy choice or retrospectively
+authorize a new use of data.
+
+For privacy questions or requests, contact **WarmApp Games** at
+[warmappgames@gmail.com](mailto:warmappgames@gmail.com).
